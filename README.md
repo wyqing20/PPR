@@ -5,7 +5,7 @@
 
   *Yiqing Wu et.al   Personalized Prompt for Sequential Recommendation In TKDE2*
 
-**Please cite our DASFAA22* paper if you use our codes. Thanks!**
+**Please cite our TKDE paper if you use our codes. Thanks!**
 
 ```
 @article{wu2024personalized,
